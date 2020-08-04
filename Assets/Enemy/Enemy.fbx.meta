@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: a1d519099648d074d88701cebb9bf4e4
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -2392379757255740271
+    second: Small Jets|Box010|Take 001|BaseLayer
+  - first:
+      74: 6937026440013352609
+    second: Small Jets|Box011|Take 001|BaseLayer
+  - first:
+      74: -2202165697549706496
+    second: Small Jets|Cylinder010|Take 001|BaseLayer
+  - first:
+      74: -6309914462136956034
+    second: Small Jets|Cylinder015|Take 001|BaseLayer
+  - first:
+      74: 6565165816575419953
+    second: Small Jets|Cylinder016|Take 001|BaseLayer
+  - first:
+      74: -3052143206926944279
+    second: Small Jets|Cylinder017|Take 001|BaseLayer
+  - first:
+      74: -8385678121890962685
+    second: Small Jets|Object011|Take 001|BaseLayer
+  - first:
+      74: 2688509935882942158
+    second: Small Jets|Object012|Take 001|BaseLayer
+  - first:
+      74: 1310198682508614952
+    second: Big Jets|Box010|Take 001|BaseLayer
+  - first:
+      74: -8484217089245250505
+    second: Big Jets|Box011|Take 001|BaseLayer
+  - first:
+      74: -352544160931957242
+    second: Big Jets|Cylinder010|Take 001|BaseLayer
+  - first:
+      74: -1209642557301395562
+    second: Big Jets|Cylinder015|Take 001|BaseLayer
+  - first:
+      74: 6291950058546336477
+    second: Big Jets|Cylinder016|Take 001|BaseLayer
+  - first:
+      74: -1481058021162681407
+    second: Big Jets|Cylinder017|Take 001|BaseLayer
+  - first:
+      74: -1742208056132749073
+    second: Big Jets|Object011|Take 001|BaseLayer
+  - first:
+      74: 8420649715950369684
+    second: Big Jets|Object012|Take 001|BaseLayer
+  - first:
+      74: 2217780452845113881
+    second: Spikes|Box010|Take 001|BaseLayer
+  - first:
+      74: 8077565818970931680
+    second: Spikes|Box011|Take 001|BaseLayer
+  - first:
+      74: 5739198883862142759
+    second: Spikes|Cylinder010|Take 001|BaseLayer
+  - first:
+      74: 7507269251632921186
+    second: Spikes|Cylinder015|Take 001|BaseLayer
+  - first:
+      74: -1997189293765034895
+    second: Spikes|Cylinder016|Take 001|BaseLayer
+  - first:
+      74: -1040955293654377261
+    second: Spikes|Cylinder017|Take 001|BaseLayer
+  - first:
+      74: 5962013787827321102
+    second: Spikes|Object011|Take 001|BaseLayer
+  - first:
+      74: 1646663360282510952
+    second: Spikes|Object012|Take 001|BaseLayer
+  - first:
+      74: -3518887908854579479
+    second: Upper Vents|Box010|Take 001|BaseLayer
+  - first:
+      74: 2229595025236339865
+    second: Upper Vents|Box011|Take 001|BaseLayer
+  - first:
+      74: -1039831428954117803
+    second: Upper Vents|Cylinder010|Take 001|BaseLayer
+  - first:
+      74: -7381646520218465256
+    second: Upper Vents|Cylinder015|Take 001|BaseLayer
+  - first:
+      74: -5161380949907908638
+    second: Upper Vents|Cylinder016|Take 001|BaseLayer
+  - first:
+      74: -5528818772289227234
+    second: Upper Vents|Cylinder017|Take 001|BaseLayer
+  - first:
+      74: -4993965593110715902
+    second: Upper Vents|Object011|Take 001|BaseLayer
+  - first:
+      74: 4861336342707814705
+    second: Upper Vents|Object012|Take 001|BaseLayer
+  - first:
+      74: -5585203313656683178
+    second: Main|Box010|Take 001|BaseLayer
+  - first:
+      74: -6918799014256825324
+    second: Main|Box011|Take 001|BaseLayer
+  - first:
+      74: -147085662483626970
+    second: Main|Cylinder010|Take 001|BaseLayer
+  - first:
+      74: -6818916148131316738
+    second: Main|Cylinder015|Take 001|BaseLayer
+  - first:
+      74: 1869604812067466504
+    second: Main|Cylinder016|Take 001|BaseLayer
+  - first:
+      74: 500118106300863260
+    second: Main|Cylinder017|Take 001|BaseLayer
+  - first:
+      74: -4357234443601160028
+    second: Main|Object011|Take 001|BaseLayer
+  - first:
+      74: -5918811432483153860
+    second: Main|Object012|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
